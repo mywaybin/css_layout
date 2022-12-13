@@ -88,33 +88,6 @@ body {
     display: block;
 }
 
-#header .gnb>ul>li .submenu {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
-
-
-
-
-#header:hover .gnb::before {
-    height: 30px
-}
-
-
-
-
-
-
-
-
-
-
-
 #header .inner {
     display: flex;
 
@@ -122,8 +95,6 @@ body {
     /* width: 1200px; */
     margin: 0 auto;
 }
-
-
 
 .mainVisual {
     position: relative;
